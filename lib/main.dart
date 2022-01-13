@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 
 import 'Screens/GirisEkrani/giris_ekrani.dart';
 
-
-
 void main() {
   runApp(const MyApp());
 }
@@ -15,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title:("RandevuApp"),
+      title: ("RandevuApp"),
       home: AnaEkran(),
     );
   }
