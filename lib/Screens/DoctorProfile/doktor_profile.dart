@@ -104,7 +104,9 @@ class DoktorProfile extends StatelessWidget {
                     height: 10.0,
                   ),
                   Text(
-                    "jjyhgkdufhısudkgsuıgdfuıkjhuıdjghdfkjguh."
+                    "Ondokuz Mayıs Üniversitesi Tıp Fakültesi Mezunu Kardiyoloji Uzmanı Umut Demirel."
+                        "Çalışma Saatleri: "
+                        "Haftaiçi:8:30-17:30"
                         ,
                     style: TextStyle(
                       fontSize: 22.0,
